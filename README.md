@@ -1,9 +1,5 @@
 # toxic-comment-classifier
 
-# Heroku
-Deployed it to the heroku.Here is the link for application: https://toxic-comment-prediction.herokuapp.com/<br>
-Here it looks like this<br>
-
 ![](sreenshot-flask-app/image1.JPG)<br>
 
 ![](sreenshot-flask-app/image2.JPG)
